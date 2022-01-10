@@ -3,7 +3,7 @@
 ## How to run
 ### 1. Spawn Obstacle(turtle1)
 ```python
-ros2 run turtle turtlesim_node
+ros2 run turtlesim turtlesim_node
 ```
 
 ### 2. Spawn Robot(turtle2)
