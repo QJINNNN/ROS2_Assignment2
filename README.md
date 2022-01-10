@@ -1,4 +1,4 @@
-# ROS_Assignment2
+# ROS2_Assignment2
 
 ## How to run
 ### 1. Spawn Obstacle(turtle1)
